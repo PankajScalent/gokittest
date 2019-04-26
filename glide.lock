@@ -1,0 +1,6 @@
+hash: dcecd3aca14cc0eb77319f24da3d113af8d7695023143f8fd9177cdf259735a5
+updated: 2019-04-24T15:08:03.69140011+05:30
+imports:
+- name: github.com/go-kit/kit
+  version: 12210fb6ace19e0496167bb3e667dcd91fa9f69b
+testImports: []
